@@ -9,7 +9,7 @@ The Web-interoperable Runtimes Community Group (wintercg) is intended to augment
 - streams
 - importScripts
 - valid protocols for urls new URL node: file: https: wss: 
-
+- agree on a http/3 implementation for server side there is no clear winner and there are a lot diffrences. see: https://github.com/just-js/just/issues/14
 
 ## Folders
 
