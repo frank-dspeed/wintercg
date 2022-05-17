@@ -8,6 +8,8 @@ The Web-interoperable Runtimes Community Group (wintercg) is intended to augment
 - fetch
 - streams
 - importScripts
+- valid protocols for urls new URL node: file: https: wss: 
+
 
 ## Folders
 
